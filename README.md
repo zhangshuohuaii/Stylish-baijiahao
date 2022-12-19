@@ -1,4 +1,4 @@
-# stylish-baijiahao
+# Stylish-baijiahao
 > 基于Stylish/Stylus修改百家号显示样式
 > Change the css of baijiahao by stylish or stylus
 
